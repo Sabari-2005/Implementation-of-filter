@@ -137,7 +137,8 @@ plt.show()
 
 
 #### ii) Using Laplacian Operator
-![Uploading Screenshot 2025-04-29 134220.png…]()
+![Screenshot 2025-04-29 134220](https://github.com/user-attachments/assets/39fc2009-944f-4c50-81e0-a045ee1cd49d)
+
 
 ## Result:
 Thus the filters are designed for smoothing and sharpening the images in the spatial domain.
